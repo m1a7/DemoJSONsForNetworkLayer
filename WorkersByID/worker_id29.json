@@ -1,0 +1,11 @@
+{
+    "identifier" : "29",
+	"firstName": "Son",
+	"lastName": "Duncan",
+	"photoURL": "https://raw.githubusercontent.com/m1a7/DemoJSONsForNetworkLayer/master/WorkersCVPhotos/photoCV6.png",
+	
+	"position": "Police officer",
+	"birthYear": "1973",
+	"city": "Bozhou",
+	"country": "China"
+}

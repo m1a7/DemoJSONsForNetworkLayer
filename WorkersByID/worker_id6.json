@@ -1,0 +1,11 @@
+{
+    "identifier" : "6",
+	"firstName": "Scot",
+	"lastName": "Connell",
+	"photoURL": "https://raw.githubusercontent.com/m1a7/DemoJSONsForNetworkLayer/master/WorkersCVPhotos/photoCV5.png",
+	
+	"position": "Firefighter",
+	"birthYear": "1934",
+	"city": "Balashikha",
+	"country": "Russia"
+}

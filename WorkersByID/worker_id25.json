@@ -1,0 +1,11 @@
+{
+    "identifier" : "25",
+	"firstName": "Isiah",
+	"lastName": "Dailey",
+	"photoURL": "https://raw.githubusercontent.com/m1a7/DemoJSONsForNetworkLayer/master/WorkersCVPhotos/photoCV1.png",
+	
+	"position": "Teacher",
+	"birthYear": "1974",
+	"city": "Bremerhaven",
+	"country": "Germany"
+}

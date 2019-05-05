@@ -1,0 +1,11 @@
+{
+    "identifier" : "7",
+	"firstName": "Jacqualine",
+	"lastName": "Pace",
+	"photoURL": "https://raw.githubusercontent.com/m1a7/DemoJSONsForNetworkLayer/master/WorkersCVPhotos/photoCV10.png",
+	
+	"position": "Cashier",
+	"birthYear": "1977",
+	"city": "Ballia",
+	"country": "India"
+}

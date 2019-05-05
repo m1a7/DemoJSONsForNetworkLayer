@@ -1,0 +1,11 @@
+{
+    "identifier" : "22",
+	"firstName": "Sandy",
+	"lastName": "Wallace",
+	"photoURL": "https://raw.githubusercontent.com/m1a7/DemoJSONsForNetworkLayer/master/WorkersCVPhotos/photoCV2.png",
+	
+	"position": "Musician",
+	"birthYear": "1963",
+	"city": "Brisbane",
+	"country": "Australia"
+}

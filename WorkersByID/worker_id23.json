@@ -1,0 +1,11 @@
+{
+    "identifier" : "23",
+	"firstName": "Daniel",
+	"lastName": "Springer",
+	"photoURL": "https://raw.githubusercontent.com/m1a7/DemoJSONsForNetworkLayer/master/WorkersCVPhotos/photoCV6.png",
+	
+	"position": "Musician",
+	"birthYear": "1993",
+	"city": "Brasília",
+	"country": "Brazil"
+}

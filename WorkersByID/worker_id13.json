@@ -1,0 +1,11 @@
+{
+    "identifier" : "13",
+	"firstName": "Reinaldo",
+	"lastName": "Ochoa",
+	"photoURL": "https://raw.githubusercontent.com/m1a7/DemoJSONsForNetworkLayer/master/WorkersCVPhotos/photoCV2.png",
+	
+	"position": "Accountant",
+	"birthYear": "2001",
+	"city": "Beihai",
+	"country": "China"
+}

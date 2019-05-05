@@ -1,0 +1,11 @@
+{
+    "identifier" : "16",
+	"firstName": "Mignon",
+	"lastName": "Medina",
+	"photoURL": "https://raw.githubusercontent.com/m1a7/DemoJSONsForNetworkLayer/master/WorkersCVPhotos/photoCV8.png",
+	
+	"position": "Nurse",
+	"birthYear": "1955",
+	"city": "Burnaby",
+	"country": "Canada"
+}

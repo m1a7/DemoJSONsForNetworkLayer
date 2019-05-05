@@ -1,0 +1,11 @@
+{
+    "identifier" : "30",
+	"firstName": "Percy",
+	"lastName": "Heard",
+	"photoURL": "https://raw.githubusercontent.com/m1a7/DemoJSONsForNetworkLayer/master/WorkersCVPhotos/photoCV1.png",
+	
+	"position": "Soldier",
+	"birthYear": "1978",
+	"city": "Bouïra",
+	"country": "Algeria"
+}

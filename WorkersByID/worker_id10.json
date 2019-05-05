@@ -1,0 +1,11 @@
+{
+    "identifier" : "10",
+	"firstName": "Meri",
+	"lastName": "Chappell",
+	"photoURL": "https://raw.githubusercontent.com/m1a7/DemoJSONsForNetworkLayer/master/WorkersCVPhotos/photoCV11.png",
+	
+	"position": "Police officer",
+	"birthYear": "1955",
+	"city": "Barueri",
+	"country": "Brazil"
+}

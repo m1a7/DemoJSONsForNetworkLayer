@@ -1,0 +1,11 @@
+{
+    "identifier" : "18",
+	"firstName": "Leandro",
+	"lastName": "Steiner",
+	"photoURL": "https://raw.githubusercontent.com/m1a7/DemoJSONsForNetworkLayer/master/WorkersCVPhotos/photoCV4.png",
+	
+	"position": "Baker",
+	"birthYear": "1997",
+	"city": "Bursa",
+	"country": "Turkey"
+}

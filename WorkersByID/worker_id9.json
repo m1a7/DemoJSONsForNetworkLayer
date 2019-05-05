@@ -1,0 +1,11 @@
+{
+    "identifier" : "9",
+	"firstName": "Sidney",
+	"lastName": "Cash",
+	"photoURL": "https://raw.githubusercontent.com/m1a7/DemoJSONsForNetworkLayer/master/WorkersCVPhotos/photoCV4.png",
+	
+	"position": "Accountant",
+	"birthYear": "1972",
+	"city": "Baran",
+	"country": "India"
+}

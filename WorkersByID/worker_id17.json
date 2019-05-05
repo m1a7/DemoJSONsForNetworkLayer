@@ -1,0 +1,11 @@
+{
+    "identifier" : "17",
+	"firstName": "Millard",
+	"lastName": "Lackey",
+	"photoURL": "https://raw.githubusercontent.com/m1a7/DemoJSONsForNetworkLayer/master/WorkersCVPhotos/photoCV3.png",
+	
+	"position": "Lawyer",
+	"birthYear": "1945",
+	"city": "Buzău",
+	"country": "Romania"
+}

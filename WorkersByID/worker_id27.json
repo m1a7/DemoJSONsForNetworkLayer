@@ -1,0 +1,11 @@
+{
+    "identifier" : "27",
+	"firstName": "Rory",
+	"lastName": "Lott",
+	"photoURL": "https://raw.githubusercontent.com/m1a7/DemoJSONsForNetworkLayer/master/WorkersCVPhotos/photoCV5.png",
+	
+	"position": "Farmer",
+	"birthYear": "1982",
+	"city": "Brno",
+	"country": "Czech Republic"
+}

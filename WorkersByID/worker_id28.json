@@ -1,0 +1,11 @@
+{
+    "identifier" : "28",
+	"firstName": "Scottie",
+	"lastName": "Albright",
+	"photoURL": "https://raw.githubusercontent.com/m1a7/DemoJSONsForNetworkLayer/master/WorkersCVPhotos/photoCV2.png",
+	
+	"position": "Musician",
+	"birthYear": "1959",
+	"city": "Braga",
+	"country": "Portugal"
+}

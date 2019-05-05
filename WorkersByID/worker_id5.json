@@ -1,0 +1,11 @@
+{
+    "identifier" : "5",
+	"firstName": "Rosana",
+	"lastName": "Sheehan",
+	"photoURL": "https://raw.githubusercontent.com/m1a7/DemoJSONsForNetworkLayer/master/WorkersCVPhotos/photoCV9.png",
+	
+	"position": "Farmer",
+	"birthYear": "1967",
+	"city": "Baliuag",
+	"country": "Philippines"
+}

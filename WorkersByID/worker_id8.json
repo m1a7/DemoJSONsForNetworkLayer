@@ -1,0 +1,11 @@
+{
+    "identifier" : "8",
+	"firstName": "Tim",
+	"lastName": "Paige",
+	"photoURL": "https://raw.githubusercontent.com/m1a7/DemoJSONsForNetworkLayer/master/WorkersCVPhotos/photoCV6.png",
+	
+	"position": "Engineer",
+	"birthYear": "1990",
+	"city": "Banha",
+	"country": "Egypt"
+}

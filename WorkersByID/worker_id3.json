@@ -1,0 +1,11 @@
+{
+  "identifier" : "3",
+	"firstName": "Burl",
+	"lastName": "Bacon",
+	"photoURL": "https://raw.githubusercontent.com/m1a7/DemoJSONsForNetworkLayer/master/WorkersCVPhotos/photoCV3.png",
+	
+	"position": "Physiotherapist",
+	"birthYear": "1970",
+	"city": "Baise",
+	"country": "China"
+}

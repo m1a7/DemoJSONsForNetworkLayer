@@ -1,0 +1,12 @@
+{
+    "identifier" : "0",
+	"firstName"  : "Christiana",
+	"lastName"   : "Locke",
+	"photoURL"   : "https://raw.githubusercontent.com/m1a7/DemoJSONsForNetworkLayer/master/WorkersCVPhotos/photoCV8.png",
+	
+	"position"   : "Teacher",
+	"birthYear"  : "2000",
+	"city"		 : "Babol",
+	"country"	 : "Iran"
+}
+

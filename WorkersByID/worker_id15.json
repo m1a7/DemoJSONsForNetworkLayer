@@ -1,0 +1,11 @@
+{
+    "identifier" : "15",
+	"firstName": "Myrtle",
+	"lastName": "Padgett",
+	"photoURL": "https://raw.githubusercontent.com/m1a7/DemoJSONsForNetworkLayer/master/WorkersCVPhotos/photoCV12.png",
+	
+	"position": "Pilot",
+	"birthYear": "1977",
+	"city": "Burgos",
+	"country": "Spain"
+}

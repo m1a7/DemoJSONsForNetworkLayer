@@ -1,0 +1,11 @@
+{
+    "identifier" : "24",
+	"firstName": "Daron",
+	"lastName": "Starks",
+	"photoURL": "https://raw.githubusercontent.com/m1a7/DemoJSONsForNetworkLayer/master/WorkersCVPhotos/photoCV5.png",
+	
+	"position": "Doctor",
+	"birthYear": "1955",
+	"city": "Bucaramanga",
+	"country": "Colombia"
+}

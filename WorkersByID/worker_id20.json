@@ -1,0 +1,11 @@
+{
+    "identifier" : "20",
+	"firstName": "Marshall",
+	"lastName": "Downs",
+	"photoURL": "https://raw.githubusercontent.com/m1a7/DemoJSONsForNetworkLayer/master/WorkersCVPhotos/photoCV7.png",
+	
+	"position": "Firefighter",
+	"birthYear": "1981",
+	"city": "Bryansk",
+	"country": "Russia"
+}

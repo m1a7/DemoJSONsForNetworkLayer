@@ -1,0 +1,11 @@
+{
+    "identifier" : "19",
+	"firstName": "John",
+	"lastName": "Walters",
+	"photoURL": "https://raw.githubusercontent.com/m1a7/DemoJSONsForNetworkLayer/master/WorkersCVPhotos/photoCV5.png",
+	
+	"position": "Physiotherapist",
+	"birthYear": "1965",
+	"city": "Bydgoszcz",
+	"country": "Poland"
+}

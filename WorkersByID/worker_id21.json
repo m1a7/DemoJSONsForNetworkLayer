@@ -1,0 +1,11 @@
+{
+    "identifier" : "21",
+	"firstName": "Judson",
+	"lastName": "Ervin",
+	"photoURL": "https://raw.githubusercontent.com/m1a7/DemoJSONsForNetworkLayer/master/WorkersCVPhotos/photoCV1.png",
+	
+	"position": "Nurse",
+	"birthYear": "1982",
+	"city": "Bremen",
+	"country": "Germany"
+}

@@ -1,0 +1,11 @@
+{
+  "identifier" : "1",
+	"firstName": "Buford",
+	"lastName": "Diggs",
+	"photoURL": "https://raw.githubusercontent.com/m1a7/DemoJSONsForNetworkLayer/master/WorkersCVPhotos/photoCV1.png",
+	
+	"position": "Physician",
+	"birthYear": "1970",
+	"city": "Baghdad",
+	"country": "Iraq"
+}

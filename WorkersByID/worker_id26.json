@@ -1,0 +1,11 @@
+{
+    "identifier" : "26",
+	"firstName": "Cyrus",
+	"lastName": "Randle",
+	"photoURL": "https://raw.githubusercontent.com/m1a7/DemoJSONsForNetworkLayer/master/WorkersCVPhotos/photoCV2.png",
+	
+	"position": "Judge",
+	"birthYear": "1976",
+	"city": "Brest",
+	"country": "Belarus"
+}

@@ -1,0 +1,11 @@
+{
+    "identifier" : "11",
+	"firstName": "Kemberly",
+	"lastName": "Mayfield",
+	"photoURL": "https://raw.githubusercontent.com/m1a7/DemoJSONsForNetworkLayer/master/WorkersCVPhotos/photoCV12.png",
+	
+	"position": "Teacher",
+	"birthYear": "1995",
+	"city": "Barrie",
+	"country": "Canada"
+}

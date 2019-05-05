@@ -1,0 +1,11 @@
+{
+    "identifier" : "12",
+	"firstName": "Cammy",
+	"lastName": "Lutz",
+	"photoURL": "https://raw.githubusercontent.com/m1a7/DemoJSONsForNetworkLayer/master/WorkersCVPhotos/photoCV9.png",
+	
+	"position": "Physiotherapist",
+	"birthYear": "1988",
+	"city": "Bauru",
+	"country": "Brazil"
+}

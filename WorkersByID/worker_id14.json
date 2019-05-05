@@ -1,0 +1,13 @@
+{
+    "identifier" : "14",
+	"firstName": "Caitlyn",
+	"lastName": "Park",
+	"photoURL": "https://raw.githubusercontent.com/m1a7/DemoJSONsForNetworkLayer/master/WorkersCVPhotos/photoCV10.png",
+	
+	"position": "Baker",
+	"birthYear": "1973",
+	"city"	: "Bursa",
+	"country": "Turkey"
+}
+
+
